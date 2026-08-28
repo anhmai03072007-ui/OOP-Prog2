@@ -4,7 +4,6 @@ using System.Text;
 
 namespace OOP_Prog2.Session_04
 {
-
     public class BankAccount
     {
         // TODO 1: Declare private fields (_balance, _pin, _failedAttempts)
