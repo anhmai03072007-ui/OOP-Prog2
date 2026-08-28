@@ -6,7 +6,7 @@
     <RootNamespace>OOP_Prog2</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>OOP_Prog2.Session_03.Program</StartupObject>
+    <StartupObject>OOP_Prog2.Session_04.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
